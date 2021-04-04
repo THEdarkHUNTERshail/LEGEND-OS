@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**itzgauravv/itzgauravv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About Me 🙋🏻‍♂️
 ```python
 Name = "Gaurav Verma"
