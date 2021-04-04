@@ -9,7 +9,7 @@ Country = "India"
 Coding is love ❤
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@LEGENDX22-30302f?style=for-the-badge&logo=telegram)](https://t.me/AuraX_Owner)
+[![telegram badge](https://img.shields.io/badge/@AuraX_Owner-30302f?style=for-the-badge&logo=telegram)](https://t.me/AuraX_Owner)
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python and java Lover
