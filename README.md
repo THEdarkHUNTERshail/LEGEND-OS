@@ -20,8 +20,8 @@ Coding is love ❤
 - 📫 How to reach me: Dm me on telegram
 - ⚡ Fun fact: I don't know (●'◡'●)
 --> 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itzgauravv)
-- ![Profile views](https://gpvc.arturio.dev/itzgauravv)
+- ![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itzgauravv)
+
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
