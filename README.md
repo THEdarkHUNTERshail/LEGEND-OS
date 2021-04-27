@@ -23,9 +23,7 @@ Coding is love ❤
 - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itzgauravv)
 
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
-
-![Profile views](https://gpvc.arturio.dev/Itzgauravv)
+<h2 align="center"><b>My GitHub Stats💛</b></h2>
 
 ![Itzgauravv Git Stats](https://github-readme-stats.vercel.app/api?username=itzgauravv&include_all_commits=true&count_private=true&theme=highcontrast)
 
