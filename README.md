@@ -25,6 +25,8 @@ Coding is love ❤
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
+![Profile views](https://gpvc.arturio.dev/Itzgauravv)
+
 ![Itzgauravv Git Stats](https://github-readme-stats.vercel.app/api?username=itzgauravv&include_all_commits=true&count_private=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzgauravv&layout=compact&theme=radical)](https://github.com/itzgauravv)
