@@ -20,14 +20,14 @@ Coding is love ❤
 - 📫 How to reach me: Dm me on telegram
 - ⚡ Fun fact: I don't know (●'◡'●)
 --> 
-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itzgauravv)
+- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav)
 
 
 <h2 align="center"><b>My GitHub Stats💛</b></h2>
 
-![Itzgauravv Git Stats](https://github-readme-stats.vercel.app/api?username=itzgauravv&include_all_commits=true&count_private=true&theme=highcontrast)
+![Itzgauravv Git Stats](https://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzgauravv&layout=compact&theme=radical)](https://github.com/itzgauravv)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzgauravv&layout=compact&theme=radical)](https://github.com/IisGaurav)
 
 ### Languages and Tools I Love ❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
