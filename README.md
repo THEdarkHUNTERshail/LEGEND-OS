@@ -1,4 +1,4 @@
-### Hi there 👋
+# Gaurav's Profile
 
 ### About Me 🙋🏻‍♂️
 ```python
@@ -13,11 +13,10 @@ Coding is love ❤
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python and java Lover
-- ⚜️Most Of My Repositories Are For Telegram
 - 🌱 I’m currently learning about telegram bots
 - 🤔 I’m looking for help for the repos and my groups
 - 💬 Ask me about anything
-- 📫 How to reach me: Dm me on telegram
+- 📫 How to reach me: @iisgauravv@gmail.com
 - ⚡ Fun fact: I don't know (●'◡'●)
 --> 
 - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav)
