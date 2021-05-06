@@ -42,7 +42,7 @@ Coding is Zindagi 💝🖤
 ![IisGaurav Git Stats](https://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast) 
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical">
-<img width="40%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical" />
+<img width="10%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical" />
 </a>
 
 
