@@ -26,7 +26,7 @@ Coding is Zindagi 💝🖤
 
 ## Instagram - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav)
 ## Telegram -  [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/IisGaurav)
-## Twitter - [![twitter](https://img.shields.io/badge/Twitter-30302?style=for-the-badge&logo=twitter)](https://twitter.com/IisGaurav)
+## Twitter - [![twitter](https://img.shields.io/badge/Twitter-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/IisGaurav)
 
 
 <h2 align="center"><b>My GitHub Stats💛</b></h2>
