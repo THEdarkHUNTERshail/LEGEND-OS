@@ -19,7 +19,8 @@ Coding is Zindagi 💝🖤
 - 💬 Ask me about anything
 
 # Contact Me 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmailAccont&logoColor=white)](iisgauravv@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+## iisgauravv@gmail.com
 
 # Social Media Accounts
 
