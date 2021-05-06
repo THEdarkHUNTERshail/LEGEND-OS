@@ -4,7 +4,8 @@
 
 
 
-## ██▓▒­░⡷⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐⢾░▒▓██
+<h1 align="center"><b> ██▓▒­░⡷⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐⢾░▒▓██
+  
 ```python
 Name = "Gaurav Verma"
 Age = "18"
@@ -12,13 +13,14 @@ Country = "India"
 Python Hamara Love Hai 💖
 Coding is Zindagi 💝🖤
 ```
-###
+
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python and java Lover
 - 🌱 I’m currently learning about telegram bots
 - 🤔 I’m looking for help for the repos and my groups
 - 💬 Ask me about anything
+</b></h1>
 
 
 
