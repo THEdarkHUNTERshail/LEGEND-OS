@@ -25,19 +25,15 @@ Coding is Zindagi 💝🖤
 <h2 align="center"><b> ██▓▒­░⡷⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐⢾░▒▓██
   <br>
   <br>
-  <br>
   
   
-  [![Gmail](https://img.shields.io/badge/iisgauravv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iisgauravv@gmail.com)
+[![Gmail](https://img.shields.io/badge/iisgauravv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iisgauravv@gmail.com)
 [![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)</b></h2>
 
 
-<h2 align="center"><b> 
-  ██▓▒­░⡷⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐⢾░▒▓██
-
-
-
-
+<h2 align="center"><b> ██▓▒­░⡷⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐⢾░▒▓██
+  <br>
+  <br>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/IisGaurav) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IisGaurav) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/IisGaurav) [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IisGaurav)  [![pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/IisGaurav)</b></h2>
 
