@@ -38,21 +38,17 @@ Coding is Zindagi 💝🖤
 
 
 <h2 align="center"><b>██▓▒­░⡷⠂𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐⢾░▒▓██💛</b></h2>
-<p>
+
   <a href="https://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast">
     <img width="45%" align="left" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical">
     <img width="45%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical" />
   </a>
-</p>
+
 
    
-## 
-
-
-
-Languages and Tools I Love ❤️
+## Languages and Tools I Love ❤️
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
