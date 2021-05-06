@@ -1,6 +1,6 @@
 # Gaurav's Profile
 
-<div>Graphic designed with <a href="https://www.fotojet.com/">FotoJet</a></div>
+![GAURAV](https://telegra.ph/file/5d0d4513f56410d55c93b.jpg)
 
 ### About Me 🙋🏻‍♂️
 ```python
