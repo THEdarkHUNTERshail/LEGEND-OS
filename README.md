@@ -18,7 +18,7 @@ Coding is Zindagi 💝🖤
 - 🤔 I’m looking for help for the repos and my groups
 - 💬 Ask me about anything
 
-# Contact Me 
+# ██▓▒­░⡷⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐⢾░▒▓██
 [![Gmail](https://img.shields.io/badge/iisgauravv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iisgauravv@gmail.com)
 [![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:iisgaurav@hotmail.com)
 
@@ -29,7 +29,7 @@ Coding is Zindagi 💝🖤
 
 
 
-<h2 align="center"><b>My GitHub Stats💛</b></h2>
+<h2 align="center"><b>██▓▒­░⡷⠂𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐⢾░▒▓██💛</b></h2>
 
 ![IisGaurav Git Stats](https://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast)       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical)
