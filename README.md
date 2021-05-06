@@ -22,7 +22,7 @@ Coding is Zindagi 💝🖤
 --> 
 
 
-# Contact Me
+# Social Media Accounts
 
 # Instagram - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav)
 # Telegram -  [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/IisGaurav)
