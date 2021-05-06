@@ -22,7 +22,7 @@ Coding is Zindagi 💝🖤
 - 🥰Python and java Lover
 - 🌱 I’m currently learning about telegram bots
 - 🤔 I’m looking for help for the repos and my groups
-- 💬 Ask me about anything</b></h3>
+- 💬 Ask me about anything
 ```
 </b></h3>
 
