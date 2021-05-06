@@ -8,7 +8,7 @@ Name = "Gaurav Verma"
 Age = "18"
 Country = "India"
 Python Hamara Love Hai 💖
-Coding is love ❤
+Coding is Zindagi 💝🖤
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@AuraX_Owner-30302f?style=for-the-badge&logo=telegram)](https://t.me/AuraX_Owner)
