@@ -43,6 +43,7 @@ Coding is Zindagi 💝🖤
   
 [![Gmail](https://img.shields.io/badge/iisgauravv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iisgauravv@gmail.com)
 [![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)</b></h2>
+![page views](https://komarev.com/ghpvc/?username=IisGaurav)
 
 
 <h2 align="center"><b> ██▓▒­░⡷⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐⢾░▒▓██
@@ -62,7 +63,7 @@ Coding is Zindagi 💝🖤
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical">
     <img width="45%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical" />
 </a>
-![page views](https://komarev.com/ghpvc/?username=IisGaurav)
+
   
 <br>
 <br>  
