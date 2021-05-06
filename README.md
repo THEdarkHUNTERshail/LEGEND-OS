@@ -23,6 +23,9 @@ Coding is Zindagi 💝🖤
 
 
 <h2 align="center"><b> ██▓▒­░⡷⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐⢾░▒▓██
+  <br>
+  <br>
+  <br>
   
   
   [![Gmail](https://img.shields.io/badge/iisgauravv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iisgauravv@gmail.com)
