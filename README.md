@@ -4,8 +4,8 @@
 
 
 
-<h1 align="center"><b> ██▓▒­░⡷⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐⢾░▒▓██</b></h1>
-<h2 align="center"><b>
+<h2 align="center"><b> ██▓▒­░⡷⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐⢾░▒▓██</b></h2>
+<h3 align="center"><b>
   
 ```python
 Name = "Gaurav Verma"
@@ -63,7 +63,7 @@ Coding is Zindagi 💝🖤
 <br>
 <br>
 
-## Languages and Tools I Love ❤️
+<h2 align="center"><b>Languages and Tools I Love ❤️
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
@@ -71,3 +71,4 @@ Coding is Zindagi 💝🖤
 [<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
+</b></h2>
