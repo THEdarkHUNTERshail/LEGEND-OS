@@ -76,7 +76,7 @@ Coding is Zindagi 💝🖤
 <h2 align="center"><b>██▓▒­░⡷⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐⢾░▒▓██
   <br>
   <br>
-
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 [<img alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
