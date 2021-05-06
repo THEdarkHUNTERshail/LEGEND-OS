@@ -42,9 +42,9 @@ Coding is Zindagi 💝🖤
 ![IisGaurav Git Stats](https://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast) 
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical" />
+    <img width="40%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical" />
   </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical)
+
 
 
 
