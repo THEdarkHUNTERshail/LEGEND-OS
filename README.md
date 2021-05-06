@@ -1,6 +1,6 @@
 # Gaurav's Profile
 
-![Gaurav](https://www.fotojet.com/">FotoJet)
+<div>Graphic designed with <a href="https://www.fotojet.com/">FotoJet</a></div>
 
 ### About Me 🙋🏻‍♂️
 ```python
