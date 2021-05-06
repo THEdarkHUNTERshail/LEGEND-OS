@@ -50,7 +50,7 @@ Coding is Zindagi 💝🖤
 
 
 
-<h2 align="center"><b>██▓▒­░⡷⠂𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐⢾░▒▓██</b></h2>
+<h2 align="center"><b>██▓▒­░⡷⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐⢾░▒▓██</b></h2>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical">
     <img width="45%" align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical" />
