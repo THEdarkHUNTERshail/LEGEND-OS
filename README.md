@@ -24,9 +24,9 @@ Coding is Zindagi 💝🖤
 
 # Contact Me
 
-##### Instagram - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav)
-##### Telegram -  [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/IisGaurav)
-##### Twitter - [![twitter](https://img.shields.io/badge/Twitter-2c8bc9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IisGaurav)
+### Instagram - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav)
+### Telegram -  [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/IisGaurav)
+### Twitter - [![twitter](https://img.shields.io/badge/Twitter-2c8bc9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IisGaurav)
 
 
 <h2 align="center"><b>My GitHub Stats💛</b></h2>
