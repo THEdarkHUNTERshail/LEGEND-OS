@@ -1,6 +1,6 @@
 # Gaurav's Profile
 
-![Gaurav](https://telegra.ph/file/db8f3ac5cebf4c50bab5e.png)
+![Gaurav](https://www.fotojet.com/">FotoJet)
 
 ### About Me 🙋🏻‍♂️
 ```python
