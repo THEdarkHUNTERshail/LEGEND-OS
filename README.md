@@ -16,7 +16,6 @@ Age = "18"
 Country = "India"
 Python Hamara Love Hai 💖
 Coding is Zindagi 💝🖤
-```
 
 
 - 😄I'm Still Learning Git & GitHub
@@ -24,6 +23,7 @@ Coding is Zindagi 💝🖤
 - 🌱 I’m currently learning about telegram bots
 - 🤔 I’m looking for help for the repos and my groups
 - 💬 Ask me about anything</b></h3>
+```
 <br>
 
 
