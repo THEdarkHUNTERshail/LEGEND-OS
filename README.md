@@ -7,6 +7,7 @@
 
 
 <h2 align="center"><b> ██▓▒­░⡷⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐⢾░▒▓██</b></h2>
+<br>
 <h3 align="center"><b>
   
 ```python
@@ -23,6 +24,7 @@ Coding is Zindagi 💝🖤
 - 🌱 I’m currently learning about telegram bots
 - 🤔 I’m looking for help for the repos and my groups
 - 💬 Ask me about anything</b></h3>
+<br>
 
 
 
