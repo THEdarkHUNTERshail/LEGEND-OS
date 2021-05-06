@@ -11,7 +11,7 @@ Python Hamara Love Hai 💖
 Coding is Zindagi 💝🖤
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@AuraX_Owner-30302f?style=for-the-badge&logo=telegram)](https://t.me/AuraX_Owner)
+[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/IisGaurav)
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python and java Lover
