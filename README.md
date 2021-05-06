@@ -24,7 +24,7 @@ Coding is Zindagi 💝🖤
 
 ## ██▓▒­░⡷⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐⢾░▒▓██
 [![Gmail](https://img.shields.io/badge/iisgauravv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iisgauravv@gmail.com)
-[![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft&logoColor=white)](mailto:iisgaurav@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)
 
 
 <h2 align="center"><b> ██▓▒­░⡷⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐⢾░▒▓██
@@ -48,7 +48,7 @@ Coding is Zindagi 💝🖤
 
 
   
- ```
+
 ## Languages and Tools I Love ❤️
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
