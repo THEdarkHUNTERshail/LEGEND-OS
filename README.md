@@ -17,10 +17,9 @@ Coding is Zindagi 💝🖤
 - 🌱 I’m currently learning about telegram bots
 - 🤔 I’m looking for help for the repos and my groups
 - 💬 Ask me about anything
-- 📫 How to reach me: iisgauravv@gmail.com
-- ⚡ Fun fact: I don't know (●'◡'●)
---> 
 
+# Contact Me 
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white) => iisgauravv@gmail.com
 
 # Social Media Accounts
 
