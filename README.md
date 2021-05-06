@@ -8,7 +8,7 @@
 
 <h2 align="center"><b> ██▓▒­░⡷⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐⢾░▒▓██</b></h2>
 <br>
-<br>
+
 <h3 align="center"><b>
   
 ```python
@@ -21,7 +21,6 @@ Coding is Zindagi 💝🖤
 </b></h3>
 
 <h3 align="center"><b>
-  
   
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python and java Lover
@@ -63,6 +62,7 @@ Coding is Zindagi 💝🖤
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical">
     <img width="45%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IisGaurav&layout=compact&theme=radical" />
 </a>
+![page views](https://komarev.com/ghpvc/?username=IisGaurav)
   
 <br>
 <br>  
