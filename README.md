@@ -1,5 +1,7 @@
 # Gaurav's Profile
 
+![Gaurav](https://telegra.ph/file/db8f3ac5cebf4c50bab5e.png)
+
 ### About Me 🙋🏻‍♂️
 ```python
 Name = "Gaurav Verma"
