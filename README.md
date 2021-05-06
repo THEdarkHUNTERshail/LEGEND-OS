@@ -22,9 +22,9 @@ Coding is Zindagi 💝🖤
 
 
 
-## ██▓▒­░⡷⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐⢾░▒▓██
+<h2 align="center"><b> ██▓▒­░⡷⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐⢾░▒▓██
 [![Gmail](https://img.shields.io/badge/iisgauravv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iisgauravv@gmail.com)
-[![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)</b></h2>
 
 
 <h2 align="center"><b> ██▓▒­░⡷⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐⢾░▒▓██
@@ -37,7 +37,7 @@ Coding is Zindagi 💝🖤
 
 
 
-<h2 align="center"><b>██▓▒­░⡷⠂𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐⢾░▒▓██💛</b></h2>
+<h2 align="center"><b>██▓▒­░⡷⠂𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐⢾░▒▓██</b></h2>
 
   <a href="https://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast">
     <img width="45%" align="left" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast" />
