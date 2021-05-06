@@ -10,8 +10,7 @@ Country = "India"
 Python Hamara Love Hai 💖
 Coding is Zindagi 💝🖤
 ```
-#### 
-[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/IisGaurav)
+###
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python and java Lover
@@ -21,7 +20,12 @@ Coding is Zindagi 💝🖤
 - 📫 How to reach me: iisgauravv@gmail.com
 - ⚡ Fun fact: I don't know (●'◡'●)
 --> 
-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav)
+
+
+# Contact Me
+
+## Instagram - [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav)
+## Telegram -  [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/IisGaurav)
 
 
 <h2 align="center"><b>My GitHub Stats💛</b></h2>
