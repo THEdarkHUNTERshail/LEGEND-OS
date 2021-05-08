@@ -11,7 +11,7 @@
 
 <h3 align="center"><b>
 
-```python
+```java
 Name = "Gaurav Verma"
 Age = "18"
 Country = "India"
