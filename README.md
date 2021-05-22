@@ -37,7 +37,6 @@ Coding is Zindagi 💝🖤
   <br>
   
   
-[![Gmail](https://img.shields.io/badge/iisgauravv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iisgauravv@gmail.com)
 [![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)</b></h2>
 
 
