@@ -56,7 +56,6 @@ Coding is Zindagi 💝🖤
 </a>
 </b></h2>  
 
-<br>
 <h2 align="center"><b>██▓▒­░⡷⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐⢾░▒▓██
 <br>
 <br>
@@ -65,8 +64,6 @@ Coding is Zindagi 💝🖤
 </a>
 </b></h2>
   
-<br>
-<br>  
 
 <h2 align="center"><b>██▓▒­░⡷⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐⢾░▒▓██
   <br>
