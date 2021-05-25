@@ -67,13 +67,6 @@ Coding is Zindagi 💝🖤
   
 <br>
 <br>  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h2 align="center"><b>██▓▒­░⡷⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐⢾░▒▓██
   <br>
