@@ -6,12 +6,6 @@
 [![GAURAV](https://telegra.ph/file/8eac717d0f7774d1d2885.png)](https://telegram.dog/iisgaurav)</b></h2>
 
 
-
-<br>
-<br>
-
-
-
 <h2 align="center"><b> ██▓▒­░⡷⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐⢾░▒▓██</b></h2>
 <br>
 
