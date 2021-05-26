@@ -1,6 +1,6 @@
 
 
-<b>![GAURAV](https://telegra.ph/file/5d0d4513f56410d55c93b.jpg)</b>
+<b>![GAURAV](https://telegra.ph/file/8eac717d0f7774d1d2885.png)</b>
 <br>
 <br>
 
