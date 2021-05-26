@@ -2,7 +2,8 @@
 
 <h2 align="center"><b> Gaurav Here
 <br>
-[![GAURAV](https://telegra.ph/file/8eac717d0f7774d1d2885.png)](https://telegram.dog/iisgaurav)</b></h2>
+[![GAURAV](https://telegra.ph/file/8eac717d0f7774d1d2885.png)](https://telegram.dog/iisgaurav)
+</b></h2>
 <br>
 <br>
 
