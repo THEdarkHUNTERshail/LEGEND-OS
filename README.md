@@ -6,7 +6,7 @@
 [![GAURAV](https://telegra.ph/file/8eac717d0f7774d1d2885.png)](https://telegram.dog/iisgaurav)</b></h2>
 
 
-<h2 align="center"><b>⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐</b>
+<h2 align="center"><b>⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐</b></h2>
 <br>
 
 <h3 align="center"><b>
@@ -25,7 +25,7 @@ Coding is Zindagi 💝🖤
 - 🤔 I’m looking for help for the repos and my groups
 
 </b></h3>
-</h2>
+
 
 
 
