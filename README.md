@@ -1,12 +1,12 @@
 
-<h2 align="center"><b> ██▓▒­░⡷⠂𝙶𝚊𝚞𝚛𝚊𝚟 𝙷𝚎𝚛𝚎⠐⢾░▒▓██
+<h2 align="center"><b> ⠂𝙶𝚊𝚞𝚛𝚊𝚟 𝙷𝚎𝚛𝚎⠐
   <br>
   
   
 [![GAURAV](https://telegra.ph/file/8eac717d0f7774d1d2885.png)](https://telegram.dog/iisgaurav)</b></h2>
 
 
-<h2 align="center"><b> ██▓▒­░⡷⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐⢾░▒▓██</b></h2>
+<h2 align="center"><b>⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐</b></h2>
 <br>
 
 <h3 align="center"><b>
@@ -32,7 +32,7 @@ Coding is Zindagi 💝🖤
 <br>
 
 
-<h2 align="center"><b> ██▓▒­░⡷⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐⢾░▒▓██
+<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
   <br>
   <br>
   
@@ -40,7 +40,7 @@ Coding is Zindagi 💝🖤
 [![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)</b></h2>
 
 
-<h2 align="center"><b> ██▓▒­░⡷⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐⢾░▒▓██
+<h2 align="center"><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
   <br>
   <br>
 
@@ -48,7 +48,7 @@ Coding is Zindagi 💝🖤
 
 
 
-<h2 align="center"><b>██▓▒­░⡷⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐⢾░▒▓██
+<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
 <br>
 <br>
 <a href="hhttps://github-readme-stats.vercel.app/api?username=IisGaurav&include_all_commits=true&count_private=true&theme=highcontrast">
@@ -56,7 +56,7 @@ Coding is Zindagi 💝🖤
 </a>
 </b></h2>  
 
-<h2 align="center"><b>██▓▒­░⡷⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐⢾░▒▓██
+<h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=radical">
@@ -65,7 +65,7 @@ Coding is Zindagi 💝🖤
 </b></h2>
   
 
-<h2 align="center"><b>██▓▒­░⡷⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐⢾░▒▓██
+<h2 align="center"><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
   <br>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
