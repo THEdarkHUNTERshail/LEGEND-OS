@@ -59,7 +59,7 @@ Coding is Zindagi 💝🖤
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=radical">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
     <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact" />
 </a>
 </b></h2>
