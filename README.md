@@ -4,8 +4,8 @@
 <h3 align="center"><b>
 
 ```pascal
-Name = "Gaurav Verma"
-Age = "18"
+Name = "Krishna Jaiswal"
+Age = "15"
 Country = "India"
 Python Hamara Love Hai 💖
 Coding is Zindagi 💝🖤
@@ -29,30 +29,30 @@ Coding is Zindagi 💝🖤
   <br>
   
   
-[![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)</b></h2>
+[![Hotmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](kkjaiswal0987@gmail.com)</b></h2>
 
 
 <h2 align="center"><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/IisGaurav) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IisGaurav) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/IisGaurav) [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IisGaurav)  [![pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/IisGaurav)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@IisGaurav)</b></h2>
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Legend_Mr_Hacker) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Legend_Mr_Hacker) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Legend_Mr_Hacker) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Legend_Mr_Hacker)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@KrishnaJaiswal1)</b></h2>
 
 
 
 <h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=iisgaurav&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+<a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 </a>
 </b></h2>  
 
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-OS&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-OS&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>
   
