@@ -20,31 +20,31 @@ alive_c += f"•♦• Channel      :  https://tele.me/Legend_Userbot\n"
 
 @bot.on(hell_cmd(outgoing=True, pattern="alive$"))
 @bot.on(sudo_cmd(pattern="alive$", allow_sudo=True))
-async def up(hell):
+async def up(event):
     if hell.fwd_from:
         return
-    await hell.get_chat()
-    await hell.delete()
-    await bot.send_file(hell.chat_id, hell_pic, caption=alive_c)
-    await hell.delete()
+    await event.get_chat()
+    await event.delete()
+    await bot.send_file(event.chat_id, LEGEND_pic, caption=alive_c)
+    await event.delete()
 
 msg = f"""
 **⚡ LEGENDBOT ιѕ σиℓιиє ⚡**
 {Config.ALIVE_MSG}
 **🏅 𝙱𝚘𝚝 𝚂𝚝𝚊𝚝𝚞𝚜 🏅**
 **Telethon :**  `{version.__version__}`
-**Hêllẞø†  :**  **{LEGENDversion}**
+**Legend  :**  **{LEGENDversion}**
 **Uptime   :**  `{uptime}`
 **Sudo      :**  **{is_sudo}**
 """
-botname = Config.BOT_USERNAME
+botname = Config.TG_BOT_USERNAME_BF_HER
 
-@bot.on(hell_cmd(pattern="boot$"))
+@bot.on(admin_cmd(pattern="boot$"))
 @bot.on(sudo_cmd(pattern="boot$", allow_sudo=True))
 async def hell_a(event):
     try:
-        hell = await bot.inline_query(botname, "alive")
-        await hell[0].click(event.chat_id)
+        event = await bot.inline_query(botname, "alive")
+        await event[0].click(event.chat_id)
         if event.sender_id == ForGo10God:
             await event.delete()
     except (noin, dedbot):
