@@ -19,8 +19,8 @@ USER_BOT_WARN_ZERO = "Enough Of Your Flooding In My Master's PM!! \n\n**🚫 Blo
 LEGEND_FIRST = (
     "__**Hello Sir/Miss,I haven't approved you yet to personal message me😎⚠️**__.\n"
     "This is My Owner {DEFAULTUSER}**"
-    "{} is currently unavailable.\nThis is an automated message.\n\n"
-    "{}\n\n**Please Choose Why You Are Here!!**".format(DEFAULTUSER, CSTM_PMP))
+    "{DEFAULTUSER} is currently unavailable.\nThis is an automated message.\n\n"
+    "{DEFAULTUSER}\n\n**Please Choose Why You Are Here!!**".format(DEFAULTUSER, CSTM_PMP))
 
 @bot.on(admin_cmd(pattern="block$"))
 async def approve_p_m(event):
