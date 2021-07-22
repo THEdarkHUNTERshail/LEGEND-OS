@@ -1,10 +1,11 @@
 <h2 align="center"><b>⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐</b></h2>
-<br>
+
 
 <h3 align="center"><b>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Php%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p>
+<br>
 ```pascal
 Name = "Krishna Jaiswal"
 Age = "16"
