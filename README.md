@@ -1,29 +1,40 @@
-<h2 align="center"><b>⠂𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗⠐</b></h2>
+<h2 align="center"><b>⠂ρєяѕοиαℓ ιиƒοямατιοи⠐</b></h2>
 
 
-<h3 align="center"><b>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Php%2C+Linux%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;ργτнοи%2C+ρɦρ%2C+ℓιиυϰ%E2%9D%A4%EF%B8%8F">
 </p>
   
   
   
 <br>
   
-  
+<h3 align="center"><b>
 ```python
-Name = "Krishna Jaiswal"
+Name = "κяιѕниα נαιѕωαℓ"
 Age = "16"
-Country = "India"
+Country = "🇮🇳"
 Python Hamara Love Hai 💖
 Coding is Zindagi 💝🖤
 ```
   
 - 😄I'm Still Learning Git & GitHub
+  
 - 🥰Python and java Lover
+  
 - 🌱 I’m currently learning about telegram bots
+  
 - 🤔 I’m looking for help for the repos and my groups
+  
+-🔭 I’m currently working with Python
 
+- 🌱 I’m currently studying
+
+- 👯 I’m looking to collaborate on project
+
+- 💬 Ask me about Python/PHP
+  
 </b></h3>
 
 
