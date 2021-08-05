@@ -14,28 +14,22 @@
   
   
 ```python
-Name = "κяιѕниα נαιѕωαℓ"
-Age = "16"
-Country = "🇮🇳"
-Python Hamara Love Hai 💖
-Coding is Zindagi 💝🖤
+Name = "SHAIL "
+Age = "18"
+Country = "🇮🇳INDIA"
+Python  💖
+🤘🤘🤘 💝🖤
 ```
   
-- 😄I'm Still Learning Git & GitHub
+- 🐲I'm Still Learning Git & GitHub
   
-- 🥰Python and java Lover
+- 🐍Python Lover
   
-- 🌱 I’m currently learning about telegram bots
-  
-- 🤔 I’m looking for help for the repos and my groups
-  
--🔭 I’m currently working with Python
+- 🌱 I’m currently learning PROGRAMMING 
 
 - 🌱 I’m currently studying
 
 - 👯 I’m looking to collaborate on project
-
-- 💬 Ask me about Python/PHP
   
 </b></h3>
 
@@ -47,17 +41,10 @@ Coding is Zindagi 💝🖤
 
 <h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
   <br>
-  <br>
-  
-  
-[![Hotmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](kkjaiswal0987@gmail.com)</b></h2>
 
 
 <h2 align="center"><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
   <br>
-  <br>
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Legend_Mr_Hacker) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Legend_Mr_Hacker) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Legend_Mr_Hacker) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Legend_Mr_Hacker)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@KrishnaJaiswal1)</b></h2>
 
 
 
@@ -72,8 +59,8 @@ Coding is Zindagi 💝🖤
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-OS&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-OS&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIL-OS&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIL-OS&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>
   
